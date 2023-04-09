@@ -1,0 +1,77 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ReverseString6",
+      "request": "launch",
+      "mainClass": "ReverseString.ReverseString6",
+      "projectName": "java_practice_59f2ee8a"
+    },
+    {
+      "type": "java",
+      "name": "ReverseString5",
+      "request": "launch",
+      "mainClass": "ReverseString.ReverseString5",
+      "projectName": "java_practice_59f2ee8a"
+    },
+    {
+      "type": "java",
+      "name": "ReverString4",
+      "request": "launch",
+      "mainClass": "ReverseString.ReverString4",
+      "projectName": "java_practice_59f2ee8a"
+    },
+    {
+      "type": "java",
+      "name": "ReverseString3",
+      "request": "launch",
+      "mainClass": "ReverseString.ReverseString3",
+      "projectName": "java_practice_59f2ee8a"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "ReverseString1",
+      "request": "launch",
+      "mainClass": "ReverseString.ReverseString1",
+      "projectName": "java_practice_59f2ee8a"
+    },
+    {
+      "type": "java",
+      "name": "ReverseString2",
+      "request": "launch",
+      "mainClass": "ReverseString.ReverseString2",
+      "projectName": "java_practice_59f2ee8a"
+    },
+    {
+      "type": "java",
+      "name": "SumExample1",
+      "request": "launch",
+      "mainClass": "SumExamples.SumExample1",
+      "projectName": "java_practice_59f2ee8a"
+    },
+    {
+      "type": "java",
+      "name": "SumExample2",
+      "request": "launch",
+      "mainClass": "SumExamples.SumExample2",
+      "projectName": "java_practice_59f2ee8a"
+    },
+    {
+      "type": "java",
+      "name": "SumExample3",
+      "request": "launch",
+      "mainClass": "SumExamples.SumExample3",
+      "projectName": "java_practice_59f2ee8a"
+    }
+  ]
+}
