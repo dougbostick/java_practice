@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator.Calculator",
+      "projectName": "java_practice_59f2ee8a"
+    },
+    {
+      "type": "java",
       "name": "GuessingGame",
       "request": "launch",
       "mainClass": "GuessingGame.GuessingGame",
