@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GuessingGame",
+      "request": "launch",
+      "mainClass": "GuessingGame.GuessingGame",
+      "projectName": "java_practice_59f2ee8a"
+    },
+    {
+      "type": "java",
       "name": "ReverseString6",
       "request": "launch",
       "mainClass": "ReverseString.ReverseString6",
