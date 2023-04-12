@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Polymorphism",
+      "request": "launch",
+      "mainClass": "Poly.Polymorphism",
+      "projectName": "java_practice_59f2ee8a"
+    },
+    {
+      "type": "java",
       "name": "Calculator",
       "request": "launch",
       "mainClass": "Calculator.Calculator",
